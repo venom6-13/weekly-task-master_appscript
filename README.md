@@ -120,4 +120,4 @@ const WEB_APP_URL = "TON_URL_WEB_APP";
 ## 👤 Auteur
 
 **Alec DIAMIDIA** — 2026  
-Projet réalisé dans le cadre d'un cours sur Google Apps Script
+Projet réalisé à la suite d'un cours AppScript
